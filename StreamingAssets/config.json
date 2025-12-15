@@ -1,0 +1,62 @@
+{
+  "Default": {
+    "CauHinh": {
+      "Chung": {
+        "MucPinKhoiDong": 0.0,
+        "GiuDoCaoTuDong": false,
+        "ChoPhepHuHai": false
+      },
+      "DieuKhien": {
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "Yaw": 0.0,
+        "Throttle": 0.0,
+        "HeSoLucDayNgang": 0.0
+      },
+      "MoiTruong": {
+        "CuongDoNhieuLoan": 0.0,
+        "AnhHuongTocDo": 0.0
+      }
+    },
+    "CaiDat": {
+      "AmLuong": {
+        "In": 0.0,
+        "Out": 0.0
+      },
+      "DoHoa": {
+        "FPS": 60.0,
+        "ChatLuong": 0
+      }
+    }
+  },
+  "Current": {
+    "CauHinh": {
+      "Chung": {
+        "MucPinKhoiDong": 0.5578456,
+        "GiuDoCaoTuDong": true,
+        "ChoPhepHuHai": false
+      },
+      "DieuKhien": {
+        "Pitch": 0.27461338,
+        "Roll": 0.500225544,
+        "Yaw": 0.7498623,
+        "Throttle": 2.462306,
+        "HeSoLucDayNgang": 1.3779192
+      },
+      "MoiTruong": {
+        "CuongDoNhieuLoan": 0.4609108,
+        "AnhHuongTocDo": 0.0
+      }
+    },
+    "CaiDat": {
+      "AmLuong": {
+        "In": 0.376248747,
+        "Out": 0.0
+      },
+      "DoHoa": {
+        "FPS": 125.0,
+        "ChatLuong": 0
+      }
+    }
+  }
+}
